@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+ /* clerk js user styles  */
+
+.cl-avatarBox {
+  width: 3rem;
+  height: 3rem;
+}
+
+
+/* react icons arrow  */
+.arrows{
+  width: 2rem;
+  height: 2rem;
+}
+
+input{
+  accent-color: red;
+}
