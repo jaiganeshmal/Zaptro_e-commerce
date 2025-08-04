@@ -3,7 +3,7 @@ import React, { useContext, useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import { IoCartOutline } from "react-icons/io5";
 import BreadCrums from '../Components/BreadCrums'
-import loader from '../assets/loader.webm'
+import loader from '../assets/Loader.webm'
 import { CartData } from '../Config/CartData';
 
 const SinglePage = () => {
