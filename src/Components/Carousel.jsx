@@ -53,8 +53,8 @@ const Carousel = () => {
                 {
                     data.slice(0, 7).map((item, index) => {
                         return (
-                            <div key={index}  className='md:h-[90vh] h-[600px]  bg-gradient-to-r from-[#0f0c29] via-[#302b63] to-[#24243e] -z-10'>
-                                <div className='w-full md:h-[600px] flex md:flex-row flex-col justify-center items-center gap-10 px-4 my-20 md:my-0 '>
+                            <div key={index}  className=' bg-gradient-to-r from-[#0f0c29] via-[#302b63] to-[#24243e] -z-10'>
+                                <div className='w-full h-[600px] flex md:flex-row flex-col justify-center items-center gap-10 px-4 my-20 md:my-0 '>
                                     <div className='md:space-y-6 space-y-3'>
                                         <h1 className='text-red-500 text-sm font-semibold'>
                                             Powering Your World with the Best in Electronics. 
